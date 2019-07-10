@@ -1,14 +1,3 @@
-<% if(theme.analytics.google.enable) { %>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=<%= theme.analytics.google.id %>"></script>
-  <script async>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', '<%= theme.analytics.google.id %>');
-  </script>
-<% } %>
-
 <% if(theme.analytics.baidu.enable) { %>
   <script async>
   (function(){

@@ -5,7 +5,7 @@ keywords: Hexo, Theme-AD
 description: 董沅鑫的小站
 
 # 导航栏头部名称
-nav_name: GODBMW
+nav_name: FMLDS
 
 # 导航栏座右铭
 motto: '无用'
@@ -77,9 +77,6 @@ share:
 analytics:
   baidu:
     enable: false
-  google:
-    enable: false
-    id:
   '360':
     enable: false
 
@@ -97,7 +94,7 @@ cdn:
   mathjax: '//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML'
   valine: '//unpkg.com/valine/dist/Valine.min.js'
   busuanzi: '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'
-  font_awesome: '//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'
+  font_awesome: '//cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css'
 
 nav:
   - name: '首页'
@@ -132,7 +129,6 @@ footer:
   #       path: 'https://juejin.im/user/5b91fcf06fb9a05d3c7fd4a5'
   #     - name: '思否'
   #       path: 'https://segmentfault.com/'
-
 # footer_contact: 'Email: yuanxin.me@gmail.com'
 
 # friends_avatar_cdn:
