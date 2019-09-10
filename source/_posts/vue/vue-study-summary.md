@@ -1,11 +1,12 @@
 ---
-title: vue-study-summary
+title: Vue 学习总结
 comments: true
-date: 2019-07-10 11:46:19
-updated: 2019-07-10 11:46:19
-lock: false
-categories: vue
-tags:
-  - vue
-  - js
+p: vue/vue-study-summary
+date: 2019-09-10 21:48:44
+updated: 2019-09-10 21:48:44
+categories: Vue
+tags: vue
 ---
+
+# 学习总结
+
